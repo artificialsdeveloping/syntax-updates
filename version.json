@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "dll_url": "https://yourusername.github.io/syntax-updates/Syntax.dll",
+  "dll_url": "https://artificalsdeveloping.github.io/syntax-updates/Syntax.dll",
   "dll_hash": "",
-  "exe_url": "https://yourusername.github.io/syntax-updates/SyntaxUI.exe",
+  "exe_url": "https://artificalsdeveloping.github.io/syntax-updates/SyntaxUI.exe",
   "exe_hash": "",
-  "offsets_url": "https://yourusername.github.io/syntax-updates/offsets.json"
+  "offsets_url": "https://artificalsdeveloping.github.io/syntax-updates/offsets.json"
 }
