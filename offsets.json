@@ -1,0 +1,270 @@
+{
+  "version": "version-ae421f0582e54718",
+  "offsets": {
+    "offsets": {
+      "AnimationId": 208
+    },
+    "Atribute": {
+      "ToNextEntry": 88,
+      "ToValue": 24
+    },
+    "BasePart": {
+      "Anchored": 430,
+      "AnchoredMask": 2,
+      "CFrame": 192,
+      "CanCollide": 430,
+      "CanCollideMask": 8,
+      "CanTouch": 430,
+      "CanTouchMask": 16,
+      "MaterialType": 582,
+      "PartSize": 432,
+      "Position": 228,
+      "Primitive": 328,
+      "Rotation": 200,
+      "Transparency": 240,
+      "Velocity": 240
+    },
+    "Beam": {
+      "Brightness": 400,
+      "Color": 288,
+      "LightEmission": 412,
+      "LightInfuence": 416
+    },
+    "Camera": {
+      "CameraPos": 284,
+      "CameraRotation": 248,
+      "CameraSubject": 232,
+      "CameraType": 344,
+      "FOV": 352,
+      "ViewportSize": 744
+    },
+    "ClickDetector": {
+      "MaxActivationDistance": 256
+    },
+    "DataModel": {
+      "CreatorId": 392,
+      "DataModelToRenderView1": 464,
+      "DataModelToRenderView2": 8,
+      "DataModelToRenderView3": 40,
+      "GameId": 400,
+      "GameLoaded": 1592,
+      "JobId": 312,
+      "PlaceId": 408,
+      "PrimitiveCount": 1088,
+      "ScriptContext": 1008,
+      "Workspace": 376
+    },
+    "Decal": {
+      "DecalTexture": 408
+    },
+    "FFlag": {
+      "ValueGetSet": 48,
+      "ValueGetSetToValue": 192
+    },
+    "FakeDataModel": {
+      "DataModel": 448
+    },
+    "Frame": {
+      "PositionOffsetX": 1292,
+      "PositionOffsetY": 1300,
+      "PositionX": 1288,
+      "PositionY": 1296,
+      "Rotation": 392,
+      "SizeOffsetX": 1328,
+      "SizeOffsetY": 1332,
+      "SizeX": 1320,
+      "SizeY": 1324,
+      "Visible": 1445
+    },
+    "GuiService": {
+      "InsetMaxX": 256,
+      "InsetMaxY": 260,
+      "InsetMinX": 248,
+      "InsetMinY": 252
+    },
+    "Highlight": {
+      "Adornee": 208
+    },
+    "Humanoid": {
+      "AutoJumpEnabled": 475,
+      "EvaluateStateMachine": 477,
+      "Health": 404,
+      "HipHeight": 416,
+      "HumanoidDisplayName": 208,
+      "HumanoidState": 2256,
+      "HumanoidStateId": 32,
+      "JumpPower": 432,
+      "MaxHealth": 436,
+      "MaxSlopeAngle": 440,
+      "MoveDirection": 344,
+      "RigType": 456,
+      "RootPartR15": 1560,
+      "RootPartR6": 1208,
+      "Sit": 476,
+      "WalkSpeed": 468,
+      "WalkSpeedCheck": 952
+    },
+    "InputObject": {
+      "InputObject": 256,
+      "MousePosition": 236,
+      "PlayerMouse": 3944
+    },
+    "Instance": {
+      "Children": 112,
+      "ChildrenEnd": 8,
+      "ClassDescriptor": 24,
+      "ClassDescriptorToClassName": 8,
+      "Deleter": 16,
+      "DeleterBack": 24,
+      "InstanceAttributePointer1": 72,
+      "InstanceAttributePointer2": 24,
+      "InstanceCapabilities": 520,
+      "Name": 176,
+      "NameSize": 16,
+      "OnDemandInstance": 64,
+      "Parent": 104,
+      "Sandboxed": 197,
+      "StringLength": 16
+    },
+    "ScriptContext": {
+      "RequireBypass": 2336
+    },
+    "PlayerListManager": {
+      "SpoofTarget": 8
+    },
+    "Jobs": {
+      "JobName": 24
+    },
+    "Lighting": {
+      "ClockTime": 440,
+      "FogColor": 252,
+      "FogEnd": 308,
+      "FogStart": 312,
+      "OutdoorAmbient": 264
+    },
+    "LocalScript": {
+      "LocalScriptByteCode": 424,
+      "LocalScriptBytecodePointer": 16,
+      "LocalScriptHash": 440,
+      "RunContext": 328
+    },
+    "MeshPart": {
+      "Color3": 404,
+      "Texture": 792
+    },
+    "ModuleScript": {
+      "ModuleScriptByteCode": 336,
+      "ModuleScriptBytecodePointer": 16,
+      "ModuleScriptHash": 352
+    },
+    "OnDemandInstance": {
+      "TagList": 0
+    },
+    "PerformanceStats_Ping": {
+      "Ping": 204
+    },
+    "Player": {
+      "CameraMaxZoomDistance": 784,
+      "CameraMinZoomDistance": 788,
+      "CameraMode": 792,
+      "CharacterAppearanceId": 696,
+      "DisplayName": 304,
+      "HealthDisplayDistance": 824,
+      "ModelInstance": 896,
+      "NameDisplayDistance": 836,
+      "Team": 656,
+      "UserId": 712
+    },
+    "PlayerConfigurer": {
+      "ForceNewAFKDuration": 440
+    },
+    "Players": {
+      "BanningEnabled": 332,
+      "LocalPlayer": 304
+    },
+    "Pointer": {
+      "DataModelDeleterPointer": 133612080,
+      "FFlagList": 130052248,
+      "FakeDataModelPointer": 133612072,
+      "JobsPointer": 0,
+      "MouseSensitivity": 134129616,
+      "PlayerConfigurer": 133469992,
+      "TaskScheduler": 134337544,
+      "VisualEnginePointer": 129101928
+    },
+    "Primitive": {
+      "PrimitiveValidateValue": 6
+    },
+    "ProximityPrompt": {
+      "ActionText": 208,
+      "Enabled": 342,
+      "GamepadKeyCode": 316,
+      "HoldDuraction": 320,
+      "MaxActivationDistance": 328,
+      "MaxObjectText": 240
+    },
+    "RenderJob": {
+      "DataModel": 432,
+      "FakeDataModel": 56,
+      "RenderView": 536
+    },
+    "RenderView": {
+      "VisualEngine": 16
+    },
+    "RunService": {
+      "HeartbeatFPS": 0,
+      "HeartbeatJob": 32,
+      "PhysicsJob": 32
+    },
+    "ScreenGui": {
+      "Enabled": 1285
+    },
+    "Sky": {
+      "MoonTextureId": 224,
+      "SkyboxBk": 272,
+      "SkyboxDn": 320,
+      "SkyboxFt": 368,
+      "SkyboxLf": 416,
+      "SkyboxRt": 464,
+      "SkyboxUp": 512,
+      "StarCount": 608,
+      "SunTextureId": 560
+    },
+    "Sound": {
+      "SoundId": 224
+    },
+    "TaskScheduler": {
+      "JobEnd": 472,
+      "JobStart": 464,
+      "MaxFPS": 432
+    },
+    "Team": {
+      "TeamColor": 208
+    },
+    "TextLabel": {
+      "Text": 2712,
+      "Visible": 1445
+    },
+    "Tool": {
+      "GripPosition": 1172
+    },
+    "Value": {
+      "Value": 208
+    },
+    "VisualEngine": {
+      "Dimensions": 2672,
+      "VisualEngineToDataModel1": 2112,
+      "VisualEngineToDataModel2": 1776,
+      "viewmatrix": 320
+    },
+    "Workspace": {
+      "Camera": 1120,
+      "ReadOnlyGravity": 2424,
+      "World": 984
+    },
+    "World": {
+      "Gravity": 464,
+      "PrimitiveList": 576
+    }
+  }
+}
